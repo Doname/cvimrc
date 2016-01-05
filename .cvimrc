@@ -1,1 +1,4 @@
-map g :to http://www.google.com<CR>
+let @@google = 'http://www.google.com'
+
+" TA binding opens 'http://www.reddit.com/r/programming/top?sort=top&t=all' in a new tab
+map TA :to @@google<CR>
