@@ -1,1 +1,1 @@
-map g :to 'http://www.google.com'<CR>
+map g :to http://www.google.com<CR>
